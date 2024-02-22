@@ -11,13 +11,15 @@ img{
    border-radius: 10px;
 }
 
-h3{
+h2{
    background-color: orange;
    border: 5px solid rgb(150, 100, 8);
    border-radius: 10px;
 
 }
-h2{
+
+a{
    color: blue;
+   font-size: 30px;
 
 }
